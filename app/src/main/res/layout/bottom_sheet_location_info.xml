@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="#212121">
+
+    <TextView
+        android:id="@+id/txtTotalDuration"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="total visits duration: 0"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="#E0E0E0"
+        android:padding="8dp"/>
+
+    <TextView
+        android:id="@+id/txtTotalVisits"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="total visits: 0"
+        android:textSize="16sp"
+        android:textColor="#BDBDBD"
+        android:padding="8dp"/>
+
+    <TextView
+        android:id="@+id/txtAvgDuration"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="average visit duration: 0"
+        android:textSize="16sp"
+        android:textColor="#BDBDBD"
+        android:padding="8dp"/>
+
+    </LinearLayout>
