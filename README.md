@@ -10,7 +10,7 @@ ZONEALERTHEATMAP is an Android application that displays a dynamic heatmap based
 
 ## Key Features
 
-<h2>Dynamic Heatmap Display:</h2>
+- **Dynamic Heatmap Display:**
 Visualizes areas where the user has spent the most time. The heatmap uses a gradient (e.g., green for lower durations, yellow for medium, and red for high durations) to represent the total time spent at each location.
 
 - ** Interactive Data Refresh: **  
