@@ -30,4 +30,12 @@ Visualizes areas where the user has spent the most time. The heatmap uses a grad
 - Material Design Components
 
 ## Screenshots
+<img src="https://github.com/user-attachments/assets/71f9afd5-6552-41c5-a4ca-3b9933233534" style="height:400px;"/>
+<img src="https://github.com/user-attachments/assets/a11d1606-c5f5-4771-9806-490c1701d9cd" style="height:400px;"/>
+<img src="https://github.com/user-attachments/assets/9450181d-30d2-4919-a14e-e99fb04073f4" style="height:400px;"/>
+<img src="https://github.com/user-attachments/assets/785b44bd-63c1-4772-a9b1-12399dede414" style="height:400px;"/>
+<img src="https://github.com/user-attachments/assets/18e7a574-dd49-4278-a4f1-8f12c6ae03fa" style="height:400px;"/>
+
+
+
 
