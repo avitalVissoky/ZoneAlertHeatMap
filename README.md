@@ -29,7 +29,5 @@ Visualizes areas where the user has spent the most time. The heatmap uses a grad
 - Firebase Realtime Database
 - Material Design Components
 
-<h2>Screenshots</h2>
-<div >
-<img src="[https://github.com/user-attachments/assets/0ebf2b7f-c29e-4060-a145-84346127ad93](https://github.com/user-attachments/assets/28be47f0-0d44-498c-9d4a-9da72cfaaa00)" style="height:400px;"/>
-</div >
+## Screenshots
+
